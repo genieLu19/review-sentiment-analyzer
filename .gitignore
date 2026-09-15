@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+models/*.joblib
+reports/*.json
+reports/*.png
+*.log
