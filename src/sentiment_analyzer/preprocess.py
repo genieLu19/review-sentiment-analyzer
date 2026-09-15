@@ -2,7 +2,6 @@ import re
 
 
 def clean_text(text: str) -> str:
-    """Normalize review text before vectorization."""
     if text is None:
         return ""
 
